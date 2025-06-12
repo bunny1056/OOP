@@ -58,13 +58,6 @@ user.wallet.save_to_file()
 2025-06-11T22:32:00 | EXPENSE | Rs.200 | Groceries
 ```
 
-## 🧾 Certificate Use Case
-
-This project was developed alongside free certification courses:
-- [OOPs in Python – Great Learning](https://www.mygreatlearning.com/academy)
-- [Python OOP – Udemy (Free)](https://www.udemy.com/)
-- [Scaler Topics – Python Certificate](https://www.scaler.com/topics/)
-
 ## 📌 Ideal For
 
 ✅ SDE Internship Resume  
