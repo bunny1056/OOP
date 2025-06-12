@@ -57,10 +57,3 @@ user.wallet.save_to_file()
 2025-06-11T22:31:00 | INCOME | Rs.1000 | Salary
 2025-06-11T22:32:00 | EXPENSE | Rs.200 | Groceries
 ```
-
-## 📌 Ideal For
-
-✅ SDE Internship Resume  
-✅ GitHub Portfolio Project  
-✅ DSA + OOP Practicals  
-✅ College-level Assignments
